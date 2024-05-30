@@ -1,7 +1,5 @@
-<h1 align="center">Hey my name is Dhruv Arora</h1>
+<h1 align="center">Dhruv Arora</h1>
 <h3 align="center">2nd Year Btech student at Thapar Institute of Technology</h3>
-
-- I am currently learning **Machine Learning, Web Dev, Deep Learning**
 
 - My email address: **dhruv.arora2309@gmail.com**
 
