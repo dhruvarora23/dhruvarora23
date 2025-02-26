@@ -1,5 +1,5 @@
 <h1 align="center">Dhruv Arora</h1>
-<h3 align="center">2nd Year Btech student at Thapar Institute of Technology</h3>
+<h3 align="center">3rd Year Btech student at Thapar Institute of Technology</h3>
 
 - My email address: **dhruv.arora2309@gmail.com**
 
